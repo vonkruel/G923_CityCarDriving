@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<Preset name="Logitech G923 (PS)" scheme="Wheel" targetDevice="Logitech G923 TRUEFORCE Racing Wheel PS USB">
+	<Bindings>
+		<Binding gameAction="PlayerCarGas">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Gas: *" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarBrake">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Brake: *" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarClutch">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Clutch: *" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSteeringLeft">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Steering: -" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSteeringRight">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Steering: +" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarToggleHandBrake">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="X" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarToggleEngine">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="R3" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetGearBoxNeutral">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="0" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetGearBoxShift1">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="1" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetGearBoxShift2">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="2" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetGearBoxShift3">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="3" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetGearBoxShift4">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="4" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetGearBoxShift5">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="L3" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetGearBoxShift6">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="R2" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetGearBoxReverse">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="L2" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetNextShift">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="L" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetPrevShift">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="K" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarCycleReductorGear">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="G" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarBoostGas">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="[LSHIFT]" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarTrailerInteraction">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="N" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSwitchHWDandNearLight">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="-" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarSetFarLight2">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="+" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarToggleAlarm">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Z" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarToggleLeftSteerLight">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Left Paddle" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarToggleRightSteerLight">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Right Paddle" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarPlayHorn">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Triangle" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarToggleSafetyBelt">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="O" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarToggleWipersMode">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Enter" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="TunningMirrors">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="'" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="GPSZoomIn">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Dial +" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="GPSZoomOut">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Dial -" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="GPSSwitching">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="O" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="LargeGPSSwitching">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="M" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="ToggleMirrorGUI">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Share" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="TogglePhoneGUI">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="F" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="MoveUpPhone">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_Minus" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="MoveDownPhone">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_Plus" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="MoveHeadInSaloonForward">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_8" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="MoveHeadInSaloonBackward">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_2" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="MoveHeadInSaloonRightSide">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_6" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="MoveHeadInSaloonLeftSide">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_4" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="MoveHeadInSaloonDown">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_9" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="MoveHeadInSaloonUp">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_7" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="MoveHeadInSaloonDefault">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_5" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="LookAtLeftGroup0">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="D-Pad Left" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="LookAtRightGroup0">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="D-Pad Right" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="LookAtBackGroup0">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="D-Pad Down" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="SwitchCamerasGroup0">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="D-Pad Up" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="SwitchCamerasGroup0Reverse">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="V" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="CameraFreeLookZoomIn">
+			<InputInfoPrimary deviceInputType="Mouse" inputName="Mouse Scroll Up" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="CameraFreeLookZoomOut">
+			<InputInfoPrimary deviceInputType="Mouse" inputName="Mouse Scroll Down" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="CameraFreeLookReset">
+			<InputInfoPrimary deviceInputType="Mouse" inputName="Left mouse button" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="CameraFreeLookModifier">
+			<InputInfoPrimary deviceInputType="Mouse" inputName="Right mouse button" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="CameraFreeLookLeft">
+			<InputInfoPrimary deviceInputType="Mouse" inputName="MOUSE_X: -" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="CameraFreeLookRight">
+			<InputInfoPrimary deviceInputType="Mouse" inputName="MOUSE_X: +" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="CameraFreeLookDown">
+			<InputInfoPrimary deviceInputType="Mouse" inputName="MOUSE_Y: +" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="CameraFreeLookUp">
+			<InputInfoPrimary deviceInputType="Mouse" inputName="MOUSE_Y: -" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerToggleAdditionalDriveBridge">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Q" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="ResetCar">
+			<InputInfoPrimary deviceInputType="Joystick" inputName="Square" device="Logitech G923 TRUEFORCE Racing Wheel PS USB" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="RecordsPlayerShowHide">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="U" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="RecordsPlayStop">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="P" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="ScreenShot">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="[F12]" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="CenterHMD">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_Multiply" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarRadioSwitch">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="\" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarRadioPrev">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="[" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="PlayerCarRadioNext">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="]" device="" modifier="[None]" />
+		</Binding>
+		<Binding gameAction="MultifunctionalAccept">
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="[ENTER]" device="" modifier="[None]" />
+		</Binding>
+	</Bindings>
+	<Parameters>
+		<Parameter name="CameraFreeLook:KeySpeed" value="12.37" />
+		<Parameter name="CameraFreeLook:SensitivityAxis" value="5.88" />
+		<Parameter name="PlayerCarBrake:DeadZone" value="0.03" />
+		<Parameter name="PlayerCarClutch:DeadZone" value="0.02" />
+		<Parameter name="PlayerCarGas:DeadZone" value="0.02" />
+		<Parameter name="UsePressedButtonsForGearBox" value="false" />
+	</Parameters>
+</Preset>
