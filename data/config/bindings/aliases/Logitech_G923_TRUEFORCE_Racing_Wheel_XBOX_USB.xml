@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Alias targetDevice1="Logitech G923 TRUEFORCE Racing Wheel XBOX USB" 
+       targetDevice2="Logitech G923 TRUEFORCE Racing Wheel XBOX"
+       targetProductGuid="{C26E046D-0000-0000-0000-504944564944}">
+    <Axis axis="x" name="Steering" />
+    <Axis axis="y" name="Gas" />
+    <Axis axis="rz" name="Brake" />
+    <Axis axis="slider:0" name="Clutch" />
+    <Button number="1" name="A" />
+    <Button number="2" name="B" />
+    <Button number="3" name="X" />
+    <Button number="4" name="Y" />
+    <Button number="5" name="Right Paddle" />
+    <Button number="6" name="Left Paddle" />
+    <Button number="7" name="Menu" />
+    <Button number="8" name="View" />
+    <Button number="9" name="RSB" />
+    <Button number="10" name="LSB" />
+    <Button number="11" name="Xbox" />
+    <Button number="12" name="Reverse" />
+    <Button number="13" name="1st" />
+    <Button number="14" name="2nd" />
+    <Button number="15" name="3rd" />
+    <Button number="16" name="4th" />
+    <Button number="17" name="5th" />
+    <Button number="18" name="6th" />
+    <Button number="19" name="+" />
+    <Button number="20" name="-" />
+    <Button number="21" name="Dial +" />
+    <Button number="22" name="Dial -" />
+    <Button number="23" name="Enter" />
+    <Pov number="0" 
+        left="D-Pad Left"
+        right="D-Pad Right" 
+        up="D-Pad Up" 
+        down="D-Pad Down"/>
+</Alias>
